@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(247, 169, 133);
+}
+
+form{
+    color: rgb(99, 144, 241);
+}
+
+#font{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
